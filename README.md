@@ -19,6 +19,7 @@ La rama `main` contiene los ejemplos vistos en clase. Cada carpeta es un proyect
 | `06-Excepciones` | Manejo, propagación (`throws`, checked y unchecked) y excepciones propias |
 | `07-Palatino-Ultra` | `ArrayList`: agregar y eliminar equipos en tiempo de ejecución |
 | `08-Notas` | Matriz multidimensional de `ArrayList`: registro y consulta de notas |
+| `09-Pokedex` | Herencia y polimorfismo: jerarquía de `Pokemon`, clase abstracta, `super`, `@Override` y doble tipo |
 
 ### Cómo compilar y ejecutar cualquier ejemplo
 
